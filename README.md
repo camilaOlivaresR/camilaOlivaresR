@@ -10,14 +10,7 @@
 
 <h1 align="center">Camila Olivares Rivera</h1>
 
- <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B61D47&size=25&center=true&vCenter=true&lines=Front-end+Developer;Architect;Pet+Lover"/>
-</p>
 
-
-<h3 align="center">Technologies I use and keep learning</h3>
-
-<br>
 
 <p align="center">
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/javascript.svg" width="40" height="40"/> </a>
