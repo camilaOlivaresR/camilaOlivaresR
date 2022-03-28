@@ -15,8 +15,6 @@
 </p>
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{BitzyG}/count.svg"></p>
-
 <h3 align="center">Technologies I use and keep learning</h3>
 
 <br>
@@ -28,10 +26,9 @@
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/figma.svg" width="40" height="40"/> </a>    
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/github.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/git.svg" width="40" height="40"/> </a>    
-    <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/angularjs.svg" width="40" height="40"/> </a>
+  
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/typescript.svg" width="40" height="40"/> </a>    
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/firebase.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/jest.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/nodejs.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/npm.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/vscode.svg" width="40" height="40"/> </a>
