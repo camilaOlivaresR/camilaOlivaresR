@@ -38,22 +38,6 @@
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/bootstrap.svg" width="40" height="40"/></a>    
  </p>
  
- <br>
- 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BitzyG&show_icons=true&theme=panda"/>
-</p>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=BitzyG&repo=github-readme-stats"> PARA DESTACAR REPOS-->
-<!--  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
- </p> -->
- 
- <h2 align="left">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/itzel-andrea-gonzalez-72308212a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:gv.itzelandrea@gmail.com?subject=Hello%20Pamela,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-</p>
 
 
 
